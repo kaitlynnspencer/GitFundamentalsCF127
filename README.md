@@ -6,3 +6,5 @@ Here is a growing collection of resources and helpful commands to know when work
 
 ## Git Commands
 - [Git Config](./commands/Config.md)
+- [Git Init](./commands/Init.md)
+- [Git Add](./commands/Add.md)
