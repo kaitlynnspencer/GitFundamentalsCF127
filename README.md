@@ -13,3 +13,4 @@ Here is a growing collection of resources and helpful commands to know when work
 - [Git Push](./Commands/Push.md)
 - [Git Pull](./Commands/Pull.md)
 - [Git Status](./Commands/Status.md)
+- [Git Clone](./Commands/Clone.md)
